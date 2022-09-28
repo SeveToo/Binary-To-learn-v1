@@ -1,14 +1,14 @@
 <div align="center" id="top"> 
   
 <h1 align="center">How binary system works?</h1>
-  <a target="_blank" href="https://sevetoo.github.io/binary-to-learn-v1">
+  <a target="_blank" href="https://sevetoo.github.io/Binary-To-learn-v1">
   <img src="./preview.png" alt="arrays functions" />
   <img src="./preview2.png" alt="arrays functions" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/binary-to-learn-v1">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/Binary-To-learn-v1">Demo</a>
 
 </div>
 
@@ -58,7 +58,7 @@ https://sevetoo.github.io/binary-to-learn-v1
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/binary-to-learn-v1" >click link</a> ) 
+or open in browser ( <a href="https://sevetoo.github.io/Binary-To-learn-v1" >click link</a> ) 
 
 ## 😎 Made by
 
